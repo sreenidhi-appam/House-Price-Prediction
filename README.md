@@ -42,5 +42,3 @@ The Linear Regression model was evaluated using the following metrics:
 ## Prediction Output
 
 The trained Linear Regression model was used to predict house prices for 1,459 records with missing sale prices.
-
-The predictions were saved in a CSV file named `Predicted_House_Prices.csv`.
